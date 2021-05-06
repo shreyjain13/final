@@ -7,7 +7,7 @@ main:
     url: /podcast/
   - title: "News & Media"
     url: /news/
-  - title: "Contact"
-    url: /portfolio/
   - title: "Previous Work"
     url: /old-work/
+  - title: "Contact"
+    url: /contact/

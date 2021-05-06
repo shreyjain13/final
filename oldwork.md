@@ -15,13 +15,27 @@ author_profile: true
 permalink: /old-work/
 
 ---
+## Internships / Work Experience
 
-Flatten
+### Loblaw AI Intern
 
-Go-Kart
+Through the COVID-19 pandemic, I led a startup called Flatten. Flatten grew to XYZ and Loblaws AI was an internship I did in 2020.
 
-PCHackers
+I am now working at Microsoft.
 
-Quarter Zero
+## Projects
 
-SHAD
+### *MIT Datathon*
+
+
+### *PCHackers*
+
+
+### Go-Kart
+
+
+## Fellowships
+
+#### SHAD
+
+### QuarterZero

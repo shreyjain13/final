@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title:  "A Primer on Domain Generalization"
 date:   2021-05-05 19:34:57 -0400
 categories: jekyll update

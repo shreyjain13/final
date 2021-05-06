@@ -4,13 +4,11 @@
 
 layout: home
 author: Shrey Jain
-title: "Welcome!"
+title: "About"
 author_profile: true
 classes:
   - dark-theme
 ---
-
-## Shaans a Bum
 
 I am currently an intern at Microsoft working as a PM and Software Engineering intern.
 

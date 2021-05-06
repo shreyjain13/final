@@ -1,0 +1,13 @@
+main:
+  - title: "Publications & Talks"
+    url: /publications/
+  - title: "Blog"
+    url: /blog/
+  - title: "Podcast"
+    url: /podcast/
+  - title: "News & Media"
+    url: /news/
+  - title: "Contact"
+    url: /portfolio/
+  - title: "Previous Work"
+    url: /old-work/

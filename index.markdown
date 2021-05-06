@@ -7,7 +7,8 @@ author: Shrey Jain
 author_profile: true
 
 ---
-# About
+
+Welcome !
 
 I am currently an intern at Microsoft working as a PM and Software Engineering intern.
 

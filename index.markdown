@@ -8,7 +8,7 @@ author_profile: true
 
 ---
 
-# About
+# Shaans a Bum
 
 I am currently an intern at Microsoft working as a PM and Software Engineering intern.
 

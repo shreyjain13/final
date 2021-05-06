@@ -4,8 +4,10 @@
 
 layout: home
 author: Shrey Jain
+title: "Welcome!"
 author_profile: true
-
+classes:
+  - dark-theme
 ---
 
 ## Shaans a Bum

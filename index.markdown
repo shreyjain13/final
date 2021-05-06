@@ -8,7 +8,7 @@ author_profile: true
 
 ---
 
-Welcome !
+# About
 
 I am currently an intern at Microsoft working as a PM and Software Engineering intern.
 

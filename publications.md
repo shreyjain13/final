@@ -5,8 +5,6 @@ classes:
   - landing
   - dark-theme
 title:  "Publications & Talks"
-
-
 toc: true
 toc_sticky: true
 toc_label: "Publications and Talks"
@@ -47,10 +45,20 @@ Luo M., Newman S., Amat M., Charpignon M., Durale E., **Jain S.,** Kaufman A., K
 
 ## Pure Machine Learning Publications
 
-
-
+In the works. Information about some of this work will be released soon!
 
 ## Conference Talks
 
+* BigData and AI Conference 2020 Guest Speaker, 2020
 
-## Guest Lectures
+* European Union, City of Mogadishu, and UNHCR Conference on COVID-19 in Mogadishu, 2020
+
+* Guest Lecture MIT Urban Policy Class, 2021
+
+* Guest Lecture Harvard Global Health Class, 2021
+
+* University of Toronto Leadership Conference, 2021
+
+* University of Toronto Entrepreneurship Conference, 2021
+
+* Role of Data in Disaster Response Asian E-Health Network, 2021

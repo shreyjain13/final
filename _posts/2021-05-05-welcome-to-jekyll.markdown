@@ -14,9 +14,10 @@ show_date: true
 read_time: true
 
 #Things you need to edit for each blog
-title:  "A Primer on Domain Generalization"
+title:  "It is not over until the second dose is in your arm!"
 date:   2021-05-05 11:38:09 -0400
 
 ---
-YOOOOOO WHATS UPP
-Domain Generalization
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
+
+This is just a temporary post.

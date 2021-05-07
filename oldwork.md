@@ -17,25 +17,22 @@ permalink: /old-work/
 ---
 ## Internships / Work Experience
 
-### Loblaw AI Intern
-
-Through the COVID-19 pandemic, I led a startup called Flatten. Flatten grew to XYZ and Loblaws AI was an internship I did in 2020.
-
-I am now working at Microsoft.
+* Loblaw Digital AI Intern
 
 ## Projects
 
-### *MIT Datathon*
+* [MIT Datathon Co-Organizer](https://covid19challenge.mit.edu/datathon/)
 
+* [PCHackers Hackathon Series: Founder and Hackathon Director](https://www.insauga.com/event/pchack-day-hackathon)
 
-### *PCHackers*
-
-
-### Go-Kart
-
+* Self-Driving Go-Kart: Modified Go Kart to be drive-by-wire through a RC car radio tranceiver. Designed and manufactured compound gearbox using bicycle sprocke. Developed self driving car system using YOLO algorithm in Python and OpenCV as shown with this test footage [here](https://www.youtube.com/watch?v=EaUuswyAPh8). This project was done with two other friends.
 
 ## Fellowships
 
-#### SHAD
+* University of Toronto Entrepreneurship Startup Incubator
 
-### QuarterZero
+* [Stanford Reboot Fellowship](https://reboothq.substack.com/about)
+
+* [SHAD](https://www.shad.ca/): University of Saskatchewan Campus
+
+* [QuarterZero](https://www.quarterzero.com/): You can find my team's demo day presentation in NYC [here.](https://www.youtube.com/watch?v=5VRro6DHmd8)

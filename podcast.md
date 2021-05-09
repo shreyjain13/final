@@ -17,4 +17,6 @@ Our podcast is targeted at having conversations with people that working on proj
 
 If you are interested in coming onto the podcast, don't hestitate to contact our reach out!
 
+Check out Time Horizons Twitter [here](https://twitter.com/time_horizons). 
+
 ![Time Horizons](/assets/timehorizons.png)

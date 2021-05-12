@@ -19,6 +19,8 @@ permalink: /old-work/
 
 * Loblaw Digital AI Intern
 
+* Research Intern at Vector Institute of Technology
+
 ## Projects
 
 * [MIT Datathon Co-Organizer](https://covid19challenge.mit.edu/datathon/)

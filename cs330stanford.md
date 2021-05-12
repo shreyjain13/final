@@ -27,7 +27,7 @@ permalink: /cs3330/
 **What is a task?**
 
 Takes an input dataset and a loss function and gives a model. A task is a machine learning problem. Different tasks can vary based on:
-* differnt objects
+* different objects
 * different people
 * different objectives
 * so many different things
@@ -36,8 +36,10 @@ Takes an input dataset and a loss function and gives a model. A task is a machin
 
 ### Mutli-task learning problem
 
-Learn all of the tasks more quickly or more proficiently than learning them independently.
+Learn all of the tasks more quickly or more proficiently than learning them independently.  
 
 ### Meta-Learning Problem
 
-Given data / experience on previous asks, learn a new task more quickly and/or more proficiently
+Given data / experience on previous tasks, learn a new task more quickly and/or more proficiently.
+
+# Lecture 2

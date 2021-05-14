@@ -22,26 +22,28 @@ date:   2021-05-05 11:38:09 -0400
 
 # This blog post is in the works.
 
-Developing **robust** models that are able to **generalize** to **out-of-distribution (OOD)** data has become a popular topic for many machine learning researchers to work on in order to improve the utility of machine learning in practice.
+## Why should you care about Domain Generalization (DG)?
 
-This blog aims at providing an introduction to domain generalization work for individuals that interested in contributing to the field and understanding some of the most important open questions. I am not an expert in any of these fields and would appreciate any critique to this blog from those who are.
+Developing **robust** models that are able to **generalize** to **out-of-distribution (OOD)** data has become a popular topic for many machine learning researchers to work on in order to improve the generalizeability of applied machine learning.
 
-I have structured the blog in the following way:
+This blog aims at providing an introduction to domain generalization by:
 
 * Defining the jargon
-* Problem definition
-* Seminal work
-* Resources to get started
+* Providing a clear explanation on the problem setting
+* Highlighting seminal work and important domain generalization methods
+* Provide up to date resources (talks/papers/codebases)
 
 ## Defining the jargon
 
-In domain generalization work, there are specific words that have not been consistently defined, but for the purposes of this blog, I have defined these terms in way that I found to be most intuitive.
+In domain generalization work, as well as in machine learning more broadly, there are specific words that have not been consistently defined. In this blog I have tried to provide the most intuitive explanation of terms that I believe are being used in a hand wavy way and I have vetted my definitions by experts in this work.
+
+Here are a list of terms I plan to clarify:
 
 * Robustness
 * Spurious Correlations
 * Tasks
 
-Areas of research include:
+Make a clear distinction between the following work (ie. definition and maybe a seminal paper in that field and relevent resource)
 
 * Domain generalization
 * Meta learning
@@ -55,19 +57,12 @@ Areas of research include:
 * Transfer learning
 * Negative Transfer Learning
 
-Resources that I have found helpful:
+### Relative Robustness
 
-Causal Inference Resources:
-
-
-
-I have tried to break down the dichotomoy of what each of these are in this figure and clustered by similarity.
-
-### Robustness
-
-The task is defined as some probability distribution over inputs and and some loss function.
+THIS IS AN EXAMPLE ON HOW I WANT TO DEFINE SOME OF THE TERMINOLOGY THAT IS COMMONLY USED.
 
 **Whose model is more robust?**
+
 ![Relative Robustness](/assets/dgblog/rel1.png)
 
 Now that we have the data, let's just be clear on the distributions:
@@ -76,17 +71,49 @@ Now that we have the data, let's just be clear on the distributions:
 
 So who was right?
 
-![Relative Robustness](/assets/dgblog/rel3.png)
+**Your model is more robust!**  Although I achieved higher accuracy on the data with a distribution shift, my model saw a 16% drop in performance whereas yours only saw an 8% drop. **The lower the drop in performance between distributions, the more robust a model is.**
 
 
+# Problem Definition
 
-## Problem Definition
+Mathematical formulation of the problem
 
-Domain generalization, distributional robustness, adversarial robustness, out-of-distribution detection, domain adaptation, zero-shot learning, transfer learning, multi-task learning, meta-learning.
+Visual intuitive and laymen explanation of the problem
 
-For those of you who are new to domain generalization work, I would also suggest you develop a good understanding for what a manifold is properly.
+# Seminal Work and DG Methods
 
-# Resources to get started
+### ICP and Non-Linear ICP
+
+### Invariant Risk Minimization (IRM) & IRMV2
+
+Discuss limitations and method formulation and maybe relevant papers for each of these
+
+### Robust Optimization Methods
+
+### DG & Algorithmic Fairness
+
+### DG for Decomposition
+
+### DG for Meta Learning
+
+### Self-supervised Contrastive Regularization (SelfReg)
+
+### DG Benchmarks
+
+Probably talk about WILDS here and a lot of Pearcy Liang's work
+
+### DG and Causal Inference
+
+### DG Gradient Alignment
+
+### DG Theory on Sample Complexity & PAC Learning
+
+### Model-based DG
+
+### DG for Computer Vision and Data Augmentation
+
+
+## Resources to get started
 
 If you are interested in getting involved in domain generalization work, I would recommend first cleaning up your understanding on causal inference and distributionally robust optimization. For lack a better word, these can be considered your "pre-requisities".
 
@@ -101,3 +128,7 @@ If you are interested in getting involved in domain generalization work, I would
 ### Distributionally Robust Optimization
 
 **General causal inference content**
+
+### Great researchers to follow on Twitter
+
+List a good list of people doing DG work like Chealsea Finn or Piearcy Liang

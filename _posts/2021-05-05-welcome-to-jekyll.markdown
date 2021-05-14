@@ -53,6 +53,13 @@ Areas of research include
 * Zero-shot learning
 * Few-shot learning
 * Transfer learning
+* Negative Transfer Learning
+
+Resources that I have found helpful:
+
+Causal Inference Resources:
+
+
 
 I have tried to break down the dichotomoy of what each of these are in this figure and clustered by similarity.
 

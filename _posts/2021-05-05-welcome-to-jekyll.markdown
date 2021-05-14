@@ -41,7 +41,7 @@ In domain generalization work, there are specific words that have not been consi
 * Spurious Correlations
 * Tasks
 
-Areas of research include
+Areas of research include:
 
 * Domain generalization
 * Meta learning
@@ -65,12 +65,39 @@ I have tried to break down the dichotomoy of what each of these are in this figu
 
 ### Robustness
 
-The task is defined as some probability distribution over inputs and and some loss function.  
+The task is defined as some probability distribution over inputs and and some loss function.
 
-![Relative Robustness](/assets/dgblog/relative.png)
+**Whose model is more robust?**
+![Relative Robustness](/assets/dgblog/rel1.png)
+
+Now that we have the data, let's just be clear on the distributions:
+
+![Relative Robustness](/assets/dgblog/rel2.png)
+
+So who was right?
+
+![Relative Robustness](/assets/dgblog/rel3.png)
+
+
 
 ## Problem Definition
 
 Domain generalization, distributional robustness, adversarial robustness, out-of-distribution detection, domain adaptation, zero-shot learning, transfer learning, multi-task learning, meta-learning.
 
 For those of you who are new to domain generalization work, I would also suggest you develop a good understanding for what a manifold is properly.
+
+# Resources to get started
+
+If you are interested in getting involved in domain generalization work, I would recommend first cleaning up your understanding on causal inference and distributionally robust optimization. For lack a better word, these can be considered your "pre-requisities".
+
+### Causal Inference
+
+**General causal inference content**
+
+**Papers to motivate causal inference in domain generalization**
+
+* Here is a great list of paper
+
+### Distributionally Robust Optimization
+
+**General causal inference content**

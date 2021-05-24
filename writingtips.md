@@ -3,7 +3,7 @@ layout: single
 classes:
   - landing
   - dark-theme
-title:  "Ideas"
+title:  "Writing Tips"
 
 toc: true
 toc_sticky: true
@@ -17,7 +17,7 @@ show_date: false
 permalink: /writing/
 ---
 
-Questions I ask myself when I write a piece of work: 
+Questions I ask myself when I write a piece of work:
 
 * What do you really want to say?
 * What are all of the different things you could say? Refine that and realize that you can never have everything.

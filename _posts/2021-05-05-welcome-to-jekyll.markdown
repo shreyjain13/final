@@ -74,7 +74,20 @@ So who was right?
 **Your model is more robust!**  Although I achieved higher accuracy on the data with a distribution shift, my model saw a 16% drop in performance whereas yours only saw an 8% drop. **The lower the drop in performance between distributions, the more robust a model is.**
 
 
-# Problem Definition
+# Introduction
+
+### ICP (Invariant Causal Prediction) for Nonlinear models
+
+
+### Generalizing from Several Related Classification Tasks to a New Unlabeled Sample
+
+[Paper Link](https://proceedings.neurips.cc/paper/2011/file/b571ecea16a9824023ee1af16897a582-Paper.pdf)
+
+Initial Notes:
+
+
+
+### Causal Inference Using Invariant Prediction: Indentification and Confidence Intervals
 
 Mathematical formulation of the problem
 

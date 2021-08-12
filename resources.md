@@ -17,6 +17,11 @@ show_date: false
 permalink: /resources/
 ---
 
-### Making 3B1B videos for your academic papers / conferences?
+### I am reworking this page as the older resources were not that useful
 
-Create a 3 Blue 1 Brown Video for every theory paper you produce. If you were ever curious (because I eventually do want to get to it), check out [here](https://github.com/3b1b/manim).
+Ping me for things you may find useful
+
+- My productivity setup (note taking, calendar, task management, second brain, etc)
+- Podcast playlist
+- Solid books
+- Triathlon systems management 

@@ -17,6 +17,8 @@ permalink: /old-work/
 ---
 ## Internships / Work Experience
 
+* Founder of [Flatten](https://flatten.ca).
+
 * Loblaw Digital AI Intern
 
 * Research Intern at Vector Institute of Technology
@@ -30,6 +32,8 @@ permalink: /old-work/
 * Self-Driving Go-Kart: Modified Go Kart to be drive-by-wire through a RC car radio tranceiver. Designed and manufactured compound gearbox using bicycle sprocke. Developed self driving car system using YOLO algorithm in Python and OpenCV as shown with this test footage [here](https://www.youtube.com/watch?v=EaUuswyAPh8). This project was done with two other friends.
 
 ## Fellowships
+
+* Interact Fellowship
 
 * University of Toronto Entrepreneurship Startup Incubator
 

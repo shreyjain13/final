@@ -15,12 +15,12 @@ read_time: true
 
 #Things you need to edit for each blog
 title:  "A Primer in Domain Generalization"
-date:   2021-05-05 11:38:09 -0400
+date:   2021-08-11 11:38:09 -0400
 
 ---
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
 
-# This blog post is in the works.
+# This blog post is in the works and will have it done in the fall of 2021"
 
 ## Why should you care about Domain Generalization (DG)?
 

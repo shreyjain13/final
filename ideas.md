@@ -43,13 +43,3 @@ Competition is great for public markets, making sports fun, but when are they ba
 ### Making 3B1B videos for your academic papers / conferences?
 
 Create a 3 Blue 1 Brown Video for every theory paper you produce. If you were ever curious (because I eventually do want to get to it), check out [here](https://github.com/3b1b/manim).
-
-
-
-### Random topics I am trying to think about more formally
-
-* Cryptography and its long term applicaitons in data sharing
-* Global markets
-
-I like this blog
-* https://www.codusoperandi.com/posts/increasing-your-luck-surface-area

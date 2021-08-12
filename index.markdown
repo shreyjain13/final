@@ -13,7 +13,9 @@ classes:
 I am currently an intern at Microsoft working as a Program Manager and Software Engineer.
 
 
-My research is based out of MIT Computer Science AI Lab (CSAIL) and the Vector Institute of Technology in finding ways to improve methods in domain generalization and adaptation research. I find the applications of this research in autonomous vehicles, robotics, and healthcare to be particularly interesting and something I hope to spend time working on outside of academia. I am also broadly interested in the areas of fairness, ethics, and policy in machine learning but hope to focus on this after getting some grounding in the methods / theory based work. Some of my prior research through the COVID-19 pandemic has been heavily influenced through a startup I founded and led called [Flatten](https://flatten.ca).
+My research is based out of the MIT Computer Science AI Lab (CSAIL) and the Vector Institute of Technology in finding ways to improve methods in domain generalization and adaptation research. I find the applications of this research in autonomous vehicles, robotics, and healthcare to be particularly interesting and something I hope to spend time working on outside of academia.
+
+I am also broadly interested in the areas of fairness, ethics, and policy in machine learning but hope to focus on this after getting some grounding in the methods / theory based work. Some of my prior research through the COVID-19 pandemic has been heavily influenced through a startup I founded and led called [Flatten](https://flatten.ca).
 
 I happen to be spending a lot of time right now thinking about ARPA models in Canada right now. If you have an interest in incentive engineering and R&D systems, ping me.
 

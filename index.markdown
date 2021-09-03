@@ -10,8 +10,9 @@ classes:
   - dark-theme
 ---
 
-I am currently an intern at Microsoft working as a Program Manager and Software Engineer.
+I just finished interning at Microsoft working as a Program Manager and Software Engineer.
 
+I am currently getting my head twisted in the applications of crypto and NFTs.
 
 My research is based out of the MIT Computer Science AI Lab (CSAIL) and the Vector Institute of Technology in finding ways to improve methods in domain generalization and adaptation research. I find the applications of this research in autonomous vehicles, robotics, and healthcare to be particularly interesting and something I hope to spend time working on outside of academia.
 
@@ -21,15 +22,13 @@ I happen to be spending a lot of time right now thinking about ARPA models in Ca
 
 Outside of academic work, I love to swim, bike and run. I am currently competing for the U25 Men's Canadian National Triathlon Team and hopefully (if COVID-19 allows for it), get to represent Canada at the World Championships in Bermuda this fall. I love to travel (been to almost 50 countries so far) and hope to get back to it when the world recovers from the pandemic. If we are in the same town and you like to bike, run, or swim open water, let's meet up!
 
-
 In between research and training, I am also an Engineering Science student at the University of Toronto majoring in machine learning.
-
 
 Some other fun things I am doing right now include: co-host of a podcast called [Time Horizons](https://shreyjain13.github.io/final/podcast/) and I am part of the [Interact Fellowship](https://joininteract.com/).
 
 
 ## Recent News
 
-* Gave a talk to the Asian E-Health Network (virtually) in Bhutan. You can learn more about this event [here](https://criticaldata.mit.edu/bhutan-disaster-response-2021/).
+* Racing at the World Championships for Team Canada Triathlon in October
 
-* I just finished my second year at UofT Eng Sci and will now be majoring in math and machine learning.
+* Finished internship at Microsoft

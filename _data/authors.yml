@@ -2,9 +2,9 @@
 
 Shrey Jain:
   name        : "Shrey Jain"
-  bio         : "ML, Triathlon, and Travel"
+  bio         : "Working on building in science and tech "
   location    : "Toronto, Canada"
-  avatar      : "/assets/Headshots/shreyflatten.png"
+  avatar      : "/assets/Headshots/biking.png"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"

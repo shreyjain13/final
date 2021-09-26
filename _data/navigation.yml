@@ -1,10 +1,9 @@
 main:
-  - title: "Publications & Talks"
-    url: /publications/
+
   - title: "Writings"
     url: /writings/
-  - title: "Podcast"
-    url: /podcast/
+  - title: "Publications & Talks"
+    url: /publications/
   - title: "News & Media"
     url: /news/
   - title: "Previous Work"

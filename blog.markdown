@@ -8,7 +8,4 @@ permalink: /writings/
 author_profile: true
 ---
 
-Here are my posts. 
-
-* [Ideas](https://shreyjain13.github.io/final/ideas)  
-* [Resources](https://shreyjain13.github.io/final/resources)
+Welcome to my writings.

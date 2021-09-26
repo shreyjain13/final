@@ -14,11 +14,13 @@ show_date: true
 read_time: true
 
 #Things you need to edit for each blog
-title:  "Podcasts"
+title:  "Podcasts I actively listen to"
 date:   2021-09-03 11:38:09 -0400
 
 ---
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
+
+I am obsessed all content in audio format: podcasts, books, music. Lately, I have gotten into a routine of actively listening to content throughout my week consistently, whether its a book, a couple of podcasts or more. I refine this list frequently, but here is the podcasts I am listening to actively right now. 
 
 ### General podcasts (Economics / World Events / Tech)
 [All in Podcast](https://open.spotify.com/show/2IqXAVFR4e0Bmyjsdc8QzF?si=d8a719741e5c4529)

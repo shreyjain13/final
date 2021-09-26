@@ -4,7 +4,7 @@
 
 layout: posts
 author: Shrey Jain
-permalink: /blog/
+permalink: /writings/
 author_profile: true
 ---
 

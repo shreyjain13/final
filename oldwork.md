@@ -17,6 +17,8 @@ permalink: /old-work/
 ---
 ## Internships / Work Experience
 
+* PM @ Microsoft Intern
+
 * Founder of [Flatten](https://flatten.ca).
 
 * Loblaw Digital AI Intern

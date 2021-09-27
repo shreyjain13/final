@@ -14,7 +14,7 @@ show_date: true
 read_time: true
 
 #Things you need to edit for each blog
-title:  "Podcasts I actively listen to"
+title:  "DAOs in regulated communities"
 date:   2021-09-03 11:38:09 -0400
 
 ---

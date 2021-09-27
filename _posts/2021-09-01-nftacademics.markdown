@@ -22,6 +22,8 @@ date:   2021-09-03 11:38:09 -0400
 
 # NFT Academic Marketplace
 
+This is an idea I have been thinking about. 
+
 ## Mission
 
 The mission of this NFT marketplace is to enable academics to:

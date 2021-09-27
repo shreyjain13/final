@@ -15,7 +15,7 @@ read_time: true
 
 #Things you need to edit for each blog
 title:  "DAOs in regulated communities"
-date:   2021-09-03 11:38:09 -0400
+date:   2021-09-20 11:38:09 -0400
 
 ---
 

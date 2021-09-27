@@ -15,14 +15,14 @@ read_time: true
 
 #Things you need to edit for each blog
 title:  "NFTs for Academics"
-date:   2021-09-03 11:38:09 -0400
+date:   2021-09-16 11:38:09 -0400
 
 ---
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
 
 # NFT Academic Marketplace
 
-This is an idea I have been thinking about. 
+This is an idea I have been thinking about.
 
 ## Mission
 

@@ -19,5 +19,3 @@ Some of my prior research through the COVID-19 pandemic has been heavily influen
 Outside of academic work, I love to swim, bike and run. As of September 2021, I ended my affiliation with the U25 Men's Canadian National Triathlon Team to focus on building out some of the projects I am excited about in research and science and tech funding space. I competed at many international races and was supposed to represent Team Canada at the World Championships in October of 2021 but this race has been cancelled due to COVID. I have been invited to represent at the World Champs in Abu Dhabi and Montreal in 2022, but will depend on how my projects pan out and ability to get back into serious training.
 
 In between research and training, I am also an Engineering Science student at the University of Toronto majoring in machine learning.
-
-Some other fun things I am doing right now include learning how to build out full-stack crypto projects (currently with NFTs) and part-taking in the [Interact Fellowship](https://joininteract.com/).

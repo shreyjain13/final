@@ -21,6 +21,8 @@ permalink: /old-work/
 
 * Founder of [Flatten](https://flatten.ca).
 
+* University of Toronto Early Stage Technology Program Founder
+
 * Loblaw Digital AI Intern
 
 * Research Intern at Vector Institute of Technology

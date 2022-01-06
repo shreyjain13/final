@@ -1,0 +1,137 @@
+---
+layout: single
+classes:
+  - landing
+  - dark-theme
+toc: true
+toc_sticky: true
+toc_label: "Outline"
+words_per_minute: 250
+categories: jekyll update
+author: Shrey Jain
+author_profile: true
+show_date: true
+read_time: true
+
+#Things you need to edit for each blog
+title:  "2022 Information Intake"
+date:   2022-01-05 11:38:09 -0400
+
+---
+## My Information Intake
+
+In 2021, I was racing and training a lot for triathlon with the World Championships taking place in October (cancelled due to COVID). In those workouts, listening to podcasts was unproductive as I tended to either hinder my workout or not focus on the contents of the podcast. Now taking a break from training and focusing on my personal health explorations (quantitative self), I have been able to develop a better system of my information intake from different sources.
+
+I set a rule for myself in 2022 whereby I don't consider anything read / understood properly unless the contents are put into my space repetition flow. This just means taking notes on key points and putting them into my Anki deck. I create a general deck for anything I am consuming that is not in the form of an academic course / material I can be tested on.
+
+I love learning through different mediums: books, audio books, blogs, podcasts, videos, essays, etc. Especially in the pandemic, it is very easy to get over consumed with content and not have enough time to digest, understand, and just think on your own so I try to find that happy balance. I often to oscillate in consumption with some weeks being 30+ hours of reading to some weeks being 10 hours a week of reading.
+
+Below I highlight my key intake flows in the forms I consume them in. Where I find the most value is typically from the amazing friends I have that usually share the works that they found interesting to read or from Twitter. There are some people that have consistently added valuable insights to my thinking. If you are a friend of mine reading this and haven't send me something you have liked reading, send me something!
+
+As you are seeing below, there is a ton of content here and how do I consume it all? I don't. I consume as much as I can in the hours that I am walking, doing chores, non-deep hands on work. I do try to make sure there are some non-negotiables week on week including finishing my book of the week, reading important macro economic trends, and getting key information from my direct sources.
+
+At the bottom of this list, I am keeping a *highlights* section from my favourite pieces (in any form) that I read in 2022.
+
+### Books List for 2022
+
+Note, this list changes frequently. I add and remove books to this list after recommendations from friends (typically longer in the beginning of the year).
+
+**Economics**
+
+- World Changing Order by Ray Dalio. *Status - started.*
+- Managing Debt Cycles by Ray Dalio. *Status - not started.*
+- The Money Illusion. *Status - not started.*
+
+**Psychology / Cognitive Science***
+
+- Think Again by Adam Grant. *Status - not started.*
+- The Selfish Gene. *Status - not started.*
+- The Status Game. *Status - not started.*
+- Luxury Beliefs. *Status - not started.*
+- Against Empathy. *Status - not started.*
+- The Mind is Flat. *Status - not started.*
+- Noise by Daniel Khanamen. *Status - not started.*
+- Thinking Fast and Slow. *Status - started.*
+- Enlightment Now by Steven Pinker. *Status - started.*
+
+**Game Theory**
+
+- Actionable Gamification by Yu-kai Chou. *Status - started.*
+
+**Innovation**
+
+- Innovators Dilemma. *Status - not started.*
+- Rationale by Steven Pinker. *Status - started.*
+- Silicon Valley Bible. Status. *Status - not started.*
+
+**Politics**
+
+- The Narrow Corridor. *Status - not started.*
+- The Aristocracy of Talent. *Status - not started.*
+- Losing the Long Game. *Status - not started.*
+
+### Podcasts for 2022
+
+**Non-Negotiable Podcasts**
+
+- Bankless. *Topic- crypto.*
+- All In. *Topic - general news.*
+- Stratechery. *Topic - general tech news.*
+- Andrew Huberman. *Topic - personal health*
+- Acquired. *Topic - tech history.*
+- China Talk. *Topic - China.*
+
+**Sometimes Maybe Podcasts**
+
+- Lex Fridman Podcast. *Topic - general.*
+- Conversations with Tyler. *Topic - general.*
+- Idea Machines. *Topic - R&D systems.*
+- This Week in Startups. *Topic - general startup news.*
+- Modern Finance. *Topic - DeFi.*
+- The Defiant. *Topic - DeFi.*
+- On the Other Side. *Topic - DAOs.*
+
+### Direct Sources
+
+With my goal in trying to go direct to source, I have found Substack to be an incredible tool in being able to find the sources I need to get the most raw information necessary.
+
+*Politics*
+- Glen Greenwald
+- Edward Snowden
+
+*China*
+- Dan Wang
+
+*Crypto*
+- Coopatroopa
+- Balajis
+- Bankless
+- Vitalik
+- Chase Chapman
+
+*Economics*
+- Marginal Revolution  
+
+
+### Mainstream News / Magazines
+
+Note! I am making it a goal to stay away from traditional news sources for 2022.
+
+*North America Sources*:
+- The Atlantic
+- Globe and Mail
+- Wall Street Journal
+- New York Times
+
+*Asia Sources*
+- None confirmed ATM but want to build this out!
+
+*European Sources*
+- None confirmed ATM but want to build this out!
+
+*Africa Sources*
+- None confirmed ATM but want to build this out!
+
+### Accessible Discords / Slacks
+
+Most of the valuable Discords / Slacks that I am part of are token gated or with friends. A lot of great content comes from these communities. If you are interested in learning more here, DM me : )

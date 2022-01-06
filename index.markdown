@@ -10,12 +10,12 @@ classes:
   - dark-theme
 ---
 
-Thinking a lot about science and tech research funding currently.
+Working on personal branding in the Metaverse and DAO tooling.
 
-My research is based out of the MIT Computer Science AI Lab (CSAIL) and the Vector Institute of Technology in finding ways to improve methods in domain generalization and adaptation research. Will be furthering this work next summer at Microsoft and Microsoft Research (I just finished working as a PM intern in the summer of 2021).
+Previously, I did some work in healthcare, both [public health](https://flatten.ca) and [machine learning for health (domain generalization)](https://shreyj.com/publications).
 
-Some of my prior research through the COVID-19 pandemic has been heavily influenced through a startup I founded and led called [Flatten](https://flatten.ca).
+I used to be a triathlete qualifying for three World Championships for Team Canada Triathlon for my age group and have a history of high performing sports. I now get enjoyment from my individual quantified self health explorations but still love to cycle and play pick up basketball.
 
-Outside of academic work, I love to swim, bike and run. As of September 2021, I ended my affiliation with the U25 Men's Canadian National Triathlon Team to focus on building out some of the projects I am excited about in research and science and tech funding space. I competed at many international races and was supposed to represent Team Canada at the World Championships in October of 2021 but this race has been cancelled due to COVID. I have been invited to represent at the World Champs in Abu Dhabi and Montreal in 2022, but will depend on how my projects pan out and ability to get back into serious training.
+Currently enrolled at the University of Toronto studying Engineering Science with a major in machine learning (graduating 2023 spring).
 
-In between research and training, I am also an Engineering Science student at the University of Toronto majoring in machine learning.
+I write [here](https://shreyj.com/writings) and actively post on Twitter [@shreyjaineth](https://twitter.com/shreyjaineth)

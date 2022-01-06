@@ -25,7 +25,7 @@ permalink: /old-work/
 
 * Loblaw Digital AI Intern
 
-* Research Intern at Vector Institute of Technology
+* Undergraduate Research at Vector Institute of Technology and MIT
 
 ## Projects
 
@@ -33,16 +33,4 @@ permalink: /old-work/
 
 * [PCHackers Hackathon Series: Founder and Hackathon Director](https://www.insauga.com/event/pchack-day-hackathon)
 
-* Self-Driving Go-Kart: Modified Go Kart to be drive-by-wire through a RC car radio tranceiver. Designed and manufactured compound gearbox using bicycle sprocke. Developed self driving car system using YOLO algorithm in Python and OpenCV as shown with this test footage [here](https://www.youtube.com/watch?v=EaUuswyAPh8). This project was done with two other friends.
-
-## Fellowships
-
-* Interact Fellowship
-
-* University of Toronto Entrepreneurship Startup Incubator
-
-* [Stanford Reboot Fellowship](https://reboothq.substack.com/about)
-
-* [SHAD](https://www.shad.ca/): University of Saskatchewan Campus
-
-* [QuarterZero](https://www.quarterzero.com/): You can find my team's demo day presentation in NYC [here.](https://www.youtube.com/watch?v=5VRro6DHmd8)
+* Self-Driving Go-Kart: Modified Go Kart to be drive-by-wire through a RC car radio tranceiver. Designed and manufactured compound gearbox using bicycle sprocke. Developed self driving car system using YOLO algorithm in Python and OpenCV as shown with this test footage [here](https://www.youtube.com/watch?v=EaUuswyAPh8). This was a fun project was done with two other friends.

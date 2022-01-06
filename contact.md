@@ -5,4 +5,4 @@ author: Shrey Jain
 permalink: /contact/
 ---
 
-The best way to contact me is via email at **shreyd.jain@mail.utoronto.ca**.
+Email me at shreyjaineth@gmail.com or DM on twitter @shreyjaineth. 

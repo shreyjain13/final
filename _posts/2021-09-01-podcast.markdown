@@ -3,13 +3,22 @@ layout: single
 classes:
   - landing
   - dark-theme
-title:  "Podcast"
-
+toc: true
+toc_sticky: true
+toc_label: "Outline"
+words_per_minute: 250
+categories: jekyll update
 author: Shrey Jain
 author_profile: true
-permalink: /podcast/
+show_date: true
+read_time: true
+
+#Things you need to edit for each blog
+title:  "My podcast!"
+date:   2021-07-01 11:38:09 -0400
 
 ---
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
 
 I am the co-host of a podcast with my friend [ Arthur Allshire](https://allshire.org).
 

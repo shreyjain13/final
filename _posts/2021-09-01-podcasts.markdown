@@ -1,0 +1,44 @@
+---
+layout: single
+classes:
+  - landing
+  - dark-theme
+toc: true
+toc_sticky: true
+toc_label: "Outline"
+words_per_minute: 250
+categories: jekyll update
+author: Shrey Jain
+author_profile: true
+show_date: true
+read_time: true
+
+#Things you need to edit for each blog
+title:  "Podcasts I actively listen to"
+date:   2021-09-03 11:38:09 -0400
+
+---
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
+
+I am obsessed all content in audio format: podcasts, books, music. Lately, I have gotten into a routine of actively listening to content throughout my week consistently, whether its a book, a couple of podcasts or more. I refine this list frequently, but here is the podcasts I am listening to actively right now. 
+
+### General podcasts (Economics / World Events / Tech)
+[All in Podcast](https://open.spotify.com/show/2IqXAVFR4e0Bmyjsdc8QzF?si=d8a719741e5c4529)
+
+### History on important companies were built
+[Acquired Podcast](https://open.spotify.com/show/7Fj0XEuUQLUqoMZQdsLXqp?si=5dc3737181b5457d)
+
+### A radical economist having interesting conversations with cool people
+[Conversations with Tyler](https://open.spotify.com/show/0Z1234tGXD2hVhjFrrhJ7g?si=c10adcdc526347ae)
+
+### China and the tech scene
+[China Talk](https://open.spotify.com/show/448WaJhgJGJKnQ3HCE2EBa?si=7337a900006f4aa1)
+
+### Crypto
+[Modern Finance](https://open.spotify.com/show/3z1kRnklGRHd5BkU9rAa2y?si=be205c63a3c74d9f)
+
+### Progress and Innovation
+[Idea Machines](https://open.spotify.com/show/34LW1AjCBrXWWOEaBKk2gp?si=3c01346919fb4128)
+
+### Latest on Startups
+[This week in startups](https://open.spotify.com/show/6ULQ0ewYf5zmsDgBchlkr9?si=9e066a7456aa44ab)

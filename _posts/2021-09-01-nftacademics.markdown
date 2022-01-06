@@ -22,7 +22,7 @@ date:   2021-09-16 11:38:09 -0400
 
 # NFT Academic Marketplace
 
-This is an idea I have been thinking about about science funding through the lens of NFTs and a DAO. If someone does build this out, would be up to advise the project! Projects that I have seen to date working on this include Gitcoin, Science Better, and VitaDAO. 
+This is an idea I have been thinking about.
 
 ## Mission
 
